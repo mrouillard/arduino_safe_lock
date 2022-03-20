@@ -16,3 +16,6 @@ The main changes from the original are:
     * dupont female-female wires
 
 2. Wiring
+    ![Wiring](./wiring_bb.png) (Made with Fritzing 0.9.9)
+
+    [Download the Fritzing sketch](./wiring.fzz)
